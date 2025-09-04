@@ -12,4 +12,4 @@ function cariAngka (){
     }
 }
 
-cariAngka(3);
+cariAngka();
