@@ -5,12 +5,12 @@ function cariAngka (){
     let nilaiAngka = angka;
 
     for (nilaiAngka; nilaiAngka === 3; nilaiAngka++){
-        console.log(nilaiAngka);
+        return(nilaiAngka);
     }
 
 
     if (angka === 3){
-        return(angka);
+        console.log(angka);
     } else if (angka !== 3){
         console.log("tidak ada");
     } else{
