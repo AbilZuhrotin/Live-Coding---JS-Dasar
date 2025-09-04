@@ -3,5 +3,11 @@ let angka = [8,3,9,2,5]
 
 function cariAngka (angka){
     let 
-    if ()
+    if (){
+        console.log();
+    } else if (){
+        console.log("tidak ada");
+    } else{
+        console.log("inputan harus angka");
+    }
 }
